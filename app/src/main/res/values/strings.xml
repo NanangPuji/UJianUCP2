@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="nim">Nim</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="dwi">Dwi Djoko P</string>
+    <string name="aprilia">Aprilia Kurnianti</string>
+    <string name="dosen">Dosen</string>
+</resources>
